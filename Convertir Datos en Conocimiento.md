@@ -8,9 +8,9 @@
 </html>
 
 # Convertir los Datos en Conocimiento
-## Datos = conjunto de hechos almacenados
-## Información = conjunto de datos procesados en tiempo y forma, que constituyen un mensaje relevante y reduce la incertidumbre
-## Conocimiento = dota a las personas con la capacidad de tomar decisiones.
+### Datos = conjunto de hechos almacenados
+### Información = conjunto de datos procesados en tiempo y forma, que constituyen un mensaje relevante y reduce la incertidumbre
+### Conocimiento = dota a las personas con la capacidad de tomar decisiones.
 
 ## Inteligenia de Negocios (BI)
 
